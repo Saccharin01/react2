@@ -8,26 +8,7 @@
  */
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
-/******/ 	var __webpack_modules__ = ({
-
-/***/ "./src/test.ts":
-/*!*********************!*\
-  !*** ./src/test.ts ***!
-  \*********************/
-/***/ (() => {
-
-eval("\nconst message = \"안녕하세요 만나서 반가워요\";\nconst test = (message) => {\n    if (message.includes(\"안녕하세요\")) {\n        console.log(message);\n    }\n    else {\n        console.log(\"hello!\");\n    }\n};\ntest(message);\n\n\n//# sourceURL=webpack://reactalt/./src/test.ts?");
-
-/***/ })
-
-/******/ 	});
-/************************************************************************/
 /******/ 	
-/******/ 	// startup
-/******/ 	// Load entry module and return exports
-/******/ 	// This entry module can't be inlined because the eval devtool is used.
-/******/ 	var __webpack_exports__ = {};
-/******/ 	__webpack_modules__["./src/test.ts"]();
 /******/ 	
 /******/ })()
 ;
